@@ -4,7 +4,7 @@ This repository contains the modules and learning paths for Microsoft Cloud. The
 
 ### Home, landing, and browse pages
 
-* [Microsoft Learn training home page](/training/)
+* [Microsoft Learn training home page](https://learn.microsoft.com/training/)
 * [Browse all training resources](https://learn.microsoft.com/training/browse/)
 
 To view all of the available landing pages, you can navigate to them from the header of the home page.
